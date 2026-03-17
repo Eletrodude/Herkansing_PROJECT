@@ -8,7 +8,8 @@
 </head>
 <body>
     <h1>Hi</h1>
-    <?php echo $contactEmail?>
+    <?php echo $contactEmail
+    ?>
     
 </body>
 </html>
